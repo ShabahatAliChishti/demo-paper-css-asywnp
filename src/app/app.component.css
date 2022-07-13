@@ -1,0 +1,21 @@
+p {
+  font-family: Lato;
+}
+
+.title {
+  position: fixed;
+  top: 2cm;
+  left: 2cm;
+}
+
+.description {
+  position: fixed;
+  top: 4cm;
+  left: 6cm;
+}
+
+.conclusion {
+  position: fixed;
+  top: 9cm;
+  left: 1cm;
+}

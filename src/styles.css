@@ -1,0 +1,24 @@
+/* Add application styles & imports to this file! */
+
+/*@media print {*/
+/*html,
+body {
+  width: 14.8cm;
+  height: 10.5cm;
+}*/
+/*}*/
+
+.hidden {
+  display: none;
+}
+
+.custom-print {
+  background-color: #fff;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  margin: 0;
+  z-index: 1000001;
+}
